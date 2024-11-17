@@ -21,4 +21,5 @@ public class SimpleDisc implements Disc {
     public String getType() {
         return "⬤";
     }
+
 }
